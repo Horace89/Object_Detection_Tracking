@@ -1,8 +1,8 @@
 # Object_Detection_Tracking
 object detection, object recognition, object tracking on conventional methods and deep learning
 
-##Tracking
-###Batch
+## Tracking
+### Batch
 + A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects ax16_9 [best MT on MOT15]
 + Learning an image-based motion context for multiple people tracking cvpr14
 + Multiple hypothesis tracking revisited iccv15
@@ -16,7 +16,7 @@ object detection, object recognition, object tracking on conventional methods an
 + High-Speed Tracking-by-Detection Without Using Image Information avss17
 + Tracking multi-object using tracklet and Faster R-CNN icdsc16_9
 + Learning an image-based motion context for multiple people tracking cvpr14
-####Old
+#### Old
 + MCMC-based particle filtering for tracking a variable number of interacting targets  tpami05
 + Multiple Object Tracking using K-Shortest Paths pami11
 + Markov chain monte carlo data association for multi-target tracking tac09
@@ -39,12 +39,12 @@ object detection, object recognition, object tracking on conventional methods an
 + Multiple Object Tracking A Review ax14
 + Continuous energy minimization for multitarget tracking tpami14_1
 + A Novel Multi-Detector Fusion Framework for Multi-Object Tracking ax17_9
-####DL
+#### DL
 + Tracking millions of humans Elsevier_17
 + Online Multi-Target Tracking Using Recurrent Neural Networks ax16_12 aaai17_2
 + Tracking The Untrackable Learning To Track Multiple Cues with Long-Term Dependencies ax17_4
 + Online Multi-target Tracking with Strong and Weak Detections eccv16
-###Summary
+### Summary
 + Visual_Tracking_by_Reinforced_Decision_Making_ax17
 + A_Multi-cut_Formulation_for_Joint_Segmentation_and_Tracking_of_Multiple_Objects
 + Action-Decision_Networks_for_Visual_Tracking_with_Deep_Reinforcement_Learning_cvpr17
@@ -72,14 +72,14 @@ object detection, object recognition, object tracking on conventional methods an
 + Learning to Track Online Multi-Object Tracking by Decision Making_iccv15 supplementary
 + Visual Tracking by Reinforced Decision Making ax17_2
 + End-to-end Active Object Tracking via Reinforcement Learning ax17_5
-###Deep Learning
-####Correlation
+### Deep Learning
+#### Correlation
 + ECO Efficient Convolution Operators for Tracking cvpr17 ax17_4
 + Beyond Correlation Filters Learning Continuous Convolution Operators for Visual Tracking eccv16 ax16_8
 + Convolutional features for correlation ﬁlter based visual tracking iccvw15
 + Visual tracking with VG-RAM Weightless Neural Networks sd nc16_3
 + Once for All a Two-flow Convolutional Neural Network for Visual Tracking ax16_4
-####Transfer
+#### Transfer
 + Transferring Rich Feature Hierarchies for Robust Visual Tracking ax15_4
 + Transfer learning based visual tracking with Gaussian processes regression eccv14
 + Online tracking by learning discriminative saliency map with convolutional neural network icml15 ax15
@@ -98,7 +98,7 @@ object detection, object recognition, object tracking on conventional methods an
 + Learning to Track at 100 FPS with Deep Regression Networks arxiv16
 + Robust Visual Tracking via Convolutional Networks ax15_8
 + Modeling and Propagating CNNs in a Tree Structure for Visual Tracking arxiv16 (vot16 winner)
-####RNN
+#### RNN
 + RATM Recurrent Attentive Tracking Model ax16_4
 + Deep Tracking Seeing Beyond Seeing Using Recurrent Neural Networks ax16_3 aaai16_2
 + First Step toward Model-Free, Anonymous Object Tracking with Recurrent Neural Networks ax15_11
